@@ -1,3 +1,5 @@
+
+
 Project title: Retail sales analysis
 database: project
 This project is designed to demonstrated SQL skill and technics typicaly used by data analyst to explore, clean and analyze retail sales data. The Project involves setting up a retail sales database , performong EDA and answering specific business problem through SQL queries.
